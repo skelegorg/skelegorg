@@ -1,6 +1,6 @@
 ### Hello
 
-Hey, I'm Andrew, a high school student in Canada, and here is where I drop all my projects.
+Hey, I'm Andrew, a student in Canada, and here is where I drop all my projects.
 
 **current project:** personal website. check skelegorg.tk when it's done.
 
