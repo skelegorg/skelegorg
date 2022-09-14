@@ -1,9 +1,5 @@
 ### Hello
 
-Hey, I'm Andrew, a student in Canada, and here is where I drop all my projects.
-
-**current project:** personal website. check skelegorg.tk when it's done.
-
 <!--
 **skelegorg/skelegorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
